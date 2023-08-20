@@ -9,5 +9,4 @@ public class PokeType
     public string Name { get; set; }
     public ICollection<Pokemon> Pokemon { get; set; }
     public ICollection<Skill> Skills { get; set; }
-
 }
