@@ -4,7 +4,6 @@ namespace VortiDex.Model;
 
 public class Squad
 {
-
     [Key]
     [Required]
     public int Id { get; set; }

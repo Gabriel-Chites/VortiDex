@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using VortiDex.Enums;
 
 namespace VortiDex.Model;
 
